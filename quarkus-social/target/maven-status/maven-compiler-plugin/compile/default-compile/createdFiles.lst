@@ -1,0 +1,4 @@
+my\groupId\GreetingResource.class
+my\groupId\quarkussocial\rest\dto\CreateUserRequest.class
+my\groupId\quarkussocial\rest\UserResource.class
+META-INF\panache-archive.marker
